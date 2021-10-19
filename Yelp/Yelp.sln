@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yelp", "Yelp.csproj", "{99A0817A-3569-4AE5-8F52-8C4DD9AF6EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingMap", "..\DemoBingMap\BingMap.csproj", "{1925684C-5A71-40A4-8BC7-0138BC83B1D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A0817A-3569-4AE5-8F52-8C4DD9AF6EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A0817A-3569-4AE5-8F52-8C4DD9AF6EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A0817A-3569-4AE5-8F52-8C4DD9AF6EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A0817A-3569-4AE5-8F52-8C4DD9AF6EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1925684C-5A71-40A4-8BC7-0138BC83B1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1925684C-5A71-40A4-8BC7-0138BC83B1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1925684C-5A71-40A4-8BC7-0138BC83B1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1925684C-5A71-40A4-8BC7-0138BC83B1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9B1458-9834-412E-B71C-1BD1B3D5A93C}
+	EndGlobalSection
+EndGlobal
